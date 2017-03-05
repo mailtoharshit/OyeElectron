@@ -1,7 +1,7 @@
-[![Build Status](https://travis-ci.org/erictherobot/hello-electron.svg?branch=master)](https://travis-ci.org/erictherobot/hello-electron)
+[![Build Status](https://travis-ci.org/oyecode/oyeElectron.svg?branch=master)](https://travis-ci.org/oyecode/oyeElectron)
 
-# Hello Electron
-Hello Electron is a simple hello world example of Electron.
+# Oye Electron
+Oye Electron is a simple hello world example of Electron.
 
 ![Image](https://dl.dropboxusercontent.com/s/huxc71ajiw8ij4s/Screenshot%202016-10-13%2009.54.17.png?dl=0?raw=true)
 
@@ -23,8 +23,8 @@ Hello Electron is a simple hello world example of Electron.
 # Install
 
 ```
-$ git clone https://github.com/erictherobot/hello-electron.git
-$ cd hello-electron
+$ git clone https://github.com/mailtoharshit/oyeelectron.git
+$ cd oyeElectron
 $ yarn start
 ```
 
@@ -64,8 +64,8 @@ Builds the app for macOS, Linux, and Windows, using [electron-packager](https://
 
 ## Follow on Twitter
 
-[@erictherobot](https://twitter.com/erictherobot)
+[@oyecode](https://twitter.com/oyecode)
 
 ## License
 
-MIT © [erictherobot](http://erictherobot.com)
+MIT © [oyecode](http://www.oyecode.com)
